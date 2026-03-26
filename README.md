@@ -39,6 +39,7 @@ Speed (in km/h)
 Weight (in kg)
 
 _**Output**_
+
 Predicted fuel consumption value
 
 _**Conclusion**_
