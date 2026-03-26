@@ -13,22 +13,29 @@ User input-based fuel prediction.
 Easy to understand and beginner-friendly.
 
 **Technologies Used**
+
 Python.
 
 CSV module.
 
 **Project Files**
+
 generate_data.py → creates dataset.
 
 fuel_data.csv → generated dataset.
 
 train_model.py → trains the model.
+
 model.pkl → saved trained model.
+
 predict.py → predicts fuel consumption.
 
 **Input Parameters**
+
 Altitude (in meters)
+
 Speed (in km/h)
+
 Weight (in kg)
 
 **Output**
