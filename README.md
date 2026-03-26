@@ -1,8 +1,8 @@
 # Fundamentals-of-AI-and-ML-Project-Aircraft-Fuel-Efficiency-Predictor-
-**Overview**
+_**Overview**_
 The Aircraft Fuel Efficiency Predictor is a machine learning project that estimates fuel consumption based on key flight parameters such as altitude, speed, and aircraft weight.
 
-**Features**
+_**Features**_
 
 Simple dataset generation using Python.
 
@@ -12,13 +12,13 @@ User input-based fuel prediction.
 
 Easy to understand and beginner-friendly.
 
-**Technologies Used**
+_**Technologies Used**_
 
 Python.
 
 CSV module.
 
-**Project Files**
+_**Project Files**_
 
 generate_data.py → creates dataset.
 
@@ -30,7 +30,7 @@ model.pkl → saved trained model.
 
 predict.py → predicts fuel consumption.
 
-**Input Parameters**
+_**Input Parameters**_
 
 Altitude (in meters)
 
@@ -38,9 +38,9 @@ Speed (in km/h)
 
 Weight (in kg)
 
-**Output**
+_**Output**_
 Predicted fuel consumption value
 
-**Conclusion**
+_**Conclusion**_
 
 This project demonstrates how basic machine learning can be applied to solve real-world aerospace problems in a simple and effective way.
