@@ -3,7 +3,6 @@
 The Aircraft Fuel Efficiency Predictor is a machine learning project that estimates fuel consumption based on key flight parameters such as altitude, speed, and aircraft weight.
 
 **Features**
-
 Simple dataset generation using Python.
 
 Linear Regression model for prediction.
